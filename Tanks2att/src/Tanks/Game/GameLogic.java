@@ -10,6 +10,7 @@ import Tanks.Field.Graph;
 import Tanks.Tanks.Enemy;
 import Tanks.Tanks.Player;
 import Tanks.Tanks.Tank;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import org.slf4j.Logger;
@@ -20,10 +21,13 @@ import java.util.List;
 import java.util.Random;
 @JsonSerialize(as= GameLogic.class)
 public class GameLogic {
-
+    @JsonIgnore
     private static final char PLAYER = 'И';
+    @JsonIgnore
     private static final char ENEMY = 'В';
+    @JsonIgnore
     private static final char EMPTY = '_';
+    @JsonIgnore
     private static final char WALL = '*';
     @JsonProperty("graph")
     private final Graph graph;
@@ -139,25 +143,25 @@ public class GameLogic {
 
     public List<Integer> varMove() {
         List<Integer> variants = new ArrayList<>();
-        int var = playerTank.getPartField().getIndex();
+        int index = playerTank.getPartField().getIndex();
         // вниз
-        if (var < 30 && graph.isAdj(playerTank.getPartField().getIndex(), partFields.get(var + 6).getIndex()) &&
-                partFields.get(var + 6).getType() != ENEMY && partFields.get(var + 6).getType() != WALL) {
+        if (index < 30 && graph.isAdj(index, partFields.get(index + 6).getIndex()) &&
+                partFields.get(index + 6).getType() != ENEMY && partFields.get(index + 6).getType() != WALL) {
             variants.add(1);
         }
         // вверх
-        if (var > 5 && graph.isAdj(playerTank.getPartField().getIndex(), partFields.get(var - 6).getIndex()) &&
-                partFields.get(var - 6).getType() != ENEMY && partFields.get(var - 6).getType() != WALL) {
+        if (index > 5 && graph.isAdj(index, partFields.get(index - 6).getIndex()) &&
+                partFields.get(index - 6).getType() != ENEMY && partFields.get(index - 6).getType() != WALL) {
             variants.add(2);
         }
         // влево
-        if (var > 0 && graph.isAdj(playerTank.getPartField().getIndex(), partFields.get(var - 1).getIndex()) &&
-                partFields.get(var - 1).getType() != ENEMY && partFields.get(var - 1).getType() != WALL) {
+        if (index > 0 && graph.isAdj(index, partFields.get(index - 1).getIndex()) &&
+                partFields.get(index - 1).getType() != ENEMY && partFields.get(index - 1).getType() != WALL) {
             variants.add(3);
         }
         // вправо
-        if (var < 35 && graph.isAdj(playerTank.getPartField().getIndex(), partFields.get(var + 1).getIndex()) &&
-                partFields.get(var + 1).getType() != ENEMY && partFields.get(var + 1).getType() != WALL) {
+        if (index < 35 && graph.isAdj(index, partFields.get(index + 1).getIndex()) &&
+                partFields.get(index + 1).getType() != ENEMY && partFields.get(index + 1).getType() != WALL) {
             variants.add(4);
         }
         return variants;

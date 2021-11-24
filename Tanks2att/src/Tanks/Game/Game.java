@@ -9,7 +9,7 @@ public class Game {
     public static final String RED = "\u001B[31m";
 
 
-
+    //mvn exec:java -Dexec.mainClass=com.app.Tanks
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         System.out.println(RED + "*****....................*ТАНЧИКИ*....................*****");
