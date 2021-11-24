@@ -1,0 +1,274 @@
+24.11.2021 09:20:12.703 [main] INFO   Tanks.Game.GameLogic - Игрок сходил вверх
+24.11.2021 09:20:12.703 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:20:12.703 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:20:16.478 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:20:16.478 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.584 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 09:26:46.589 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.590 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 09:26:46.591 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:26:46.591 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.591 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 09:26:46.592 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.592 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.593 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:26:46.593 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.593 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.594 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.594 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.595 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:26:46.595 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:28:38.096 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Бот сделал залп
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - бот закончил ход
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Конец игры
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 09:30:08.739 [main] INFO   Tanks.Game.GameLogic - Конец игры
+24.11.2021 09:32:24.343 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Бот сделал залп
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Бот сделал залп
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Бот сделал залп
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Конец игры
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 09:32:24.349 [main] INFO   Tanks.Game.GameLogic - Конец игры
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:33:47.496 [main] INFO   Tanks.Game.GameLogic - бот 6 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 09:39:48.616 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 09:39:48.632 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 10:27:34.200 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 10:27:34.207 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.208 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 10:27:34.208 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 10:27:34.208 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 10:27:34.208 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 10:27:34.208 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.208 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 10:27:34.209 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 10:27:34.209 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.209 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 10:27:34.209 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.209 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.209 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 10:27:34.210 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 10:27:34.210 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.210 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 10:27:34.210 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 10:27:34.210 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 10:27:34.210 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 10:27:34.210 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 10:27:34.211 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 10:27:34.211 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 10:27:34.211 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 10:27:34.211 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 10:27:34.211 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 10:27:34.211 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 10:27:34.211 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 10:27:34.212 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 10:27:34.212 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 10:27:34.212 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 10:27:34.212 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 10:27:34.212 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.212 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 10:27:34.213 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 10:27:34.213 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 10:27:34.213 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.213 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 10:27:34.213 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.213 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 10:27:34.213 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 10:27:34.213 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 10:27:34.214 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 10:27:34.214 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 10:27:34.214 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 10:27:34.214 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 10:27:34.214 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.214 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 10:27:34.214 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 10:27:34.215 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.215 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 10:27:34.215 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 10:27:34.215 [main] INFO   Tanks.Game.GameLogic - бот 2 закончил ход
+24.11.2021 10:27:34.215 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 10:27:34.215 [main] INFO   Tanks.Game.GameLogic - бот 0 закончил ход
+24.11.2021 10:27:34.215 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 10:27:34.215 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.216 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.216 [main] INFO   Tanks.Game.GameLogic - Бот сходил вниз
+24.11.2021 10:27:34.216 [main] INFO   Tanks.Game.GameLogic - бот 3 закончил ход
+24.11.2021 10:27:34.216 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:34.216 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:55.269 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 10:27:55.272 [main] INFO   Tanks.Game.GameLogic - Бот сходил вправо
+24.11.2021 10:27:55.278 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 10:27:55.278 [main] INFO   Tanks.Game.GameLogic - Бот сходил вверх
+24.11.2021 10:27:55.278 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:55.278 [main] INFO   Tanks.Game.GameLogic - Бот сделал залп
+24.11.2021 10:27:55.278 [main] INFO   Tanks.Game.GameLogic - бот 4 закончил ход
+24.11.2021 10:27:55.278 [main] INFO   Tanks.Game.GameLogic - Бот сходил влево
+24.11.2021 10:27:55.279 [main] INFO   Tanks.Game.GameLogic - бот 1 закончил ход
+24.11.2021 10:27:55.279 [main] INFO   Tanks.Game.GameLogic - Конец игры
+24.11.2021 10:27:55.279 [main] INFO   Tanks.Game.GameLogic - игрок сделал залп
+24.11.2021 10:27:55.279 [main] INFO   Tanks.Game.GameLogic - Конец игры

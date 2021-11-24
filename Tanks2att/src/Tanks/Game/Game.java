@@ -24,7 +24,13 @@ public class Game {
                     System.out.print(battlefield);
                     System.out.println("Наш союзник попал в засаду...");
                     System.out.println("Посмотрите что с ним творят мерзкие враги...");
-                    while (!battleDemo.gameOver()) {
+                    int round = 0;
+                    while (!battleDemo.gameOver() || round < 11) {
+                        round++;
+                        if(round == 11) {
+                            System.out.println("Пора помочь товарщу!");
+                            break;
+                        }
                         System.out.println("Наш товарищ пытается найти врага");
                         if(battleDemo.canShoot()) {
                             battleDemo.makeShoot();
@@ -38,6 +44,9 @@ public class Game {
                             System.out.println("Наш товарищ выстоял");
                             break;
                         }
+                        battleDemo.BotRound();
+                        battleDemo.BotRound();
+                        battleDemo.BotRound();
                         battleDemo.BotRound();
                         System.out.println("Враги не дремют");
                         battlefield = battleDemo.showBattlefield();
@@ -138,6 +147,7 @@ public class Game {
                 break;
             }
             System.out.println("-----------Ход противника-----------");
+            battle.BotRound();
             battle.BotRound();
             System.out.println("Сложные вычисления искуственного интелекта...");
             if (battle.gameOver()) {

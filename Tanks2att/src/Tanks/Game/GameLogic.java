@@ -30,11 +30,35 @@ public class GameLogic {
     @JsonIgnore
     private static final char WALL = '*';
     @JsonProperty("graph")
-    private final Graph graph;
+    private Graph graph;
     @JsonProperty("partFields")
-    private final ArrayList<PartField> partFields;
+    private ArrayList<PartField> partFields;
     @JsonProperty("enemyTanks")
-    private final ArrayList<Tank> enemyTanks;
+    private ArrayList<Tank> enemyTanks;
+
+    public void setGraph(Graph graph) {
+        this.graph = graph;
+    }
+
+    public void setPartFields(ArrayList<PartField> partFields) {
+        this.partFields = partFields;
+    }
+
+    public void setEnemyTanks(ArrayList<Tank> enemyTanks) {
+        this.enemyTanks = enemyTanks;
+    }
+
+    public Graph getGraph() {
+        return graph;
+    }
+
+    public ArrayList<PartField> getPartFields() {
+        return partFields;
+    }
+
+    public ArrayList<Tank> getEnemyTanks() {
+        return enemyTanks;
+    }
 
     Player playerTank = new Player(null, 1, 1, 1);
 
@@ -224,16 +248,16 @@ public class GameLogic {
 
     public void BotRound() {
         Random random = new Random();
-        int numberBot = 6;
+        int numberBot = random.nextInt(5);
         while (numberBot > enemyTanks.size() - 1) {
-            numberBot = random.nextInt(6);
+            numberBot = random.nextInt(5);
         }
         if(canShootBot(numberBot)) {
             makeShootBot(numberBot);
         } else {
             botMove(random.nextInt(5),numberBot);
         }
-        logger.info("бот закончил ход");
+        logger.info("бот " + numberBot + " закончил ход");
     }
     private boolean canShootBot(int numberBot) {
         int enemy = enemyTanks.get(numberBot).getPartField().getIndex();
